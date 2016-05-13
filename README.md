@@ -1,3 +1,3 @@
 # Number-Guess-cpp
 
-First time playing with RNG.
+Created April '15. First time playing with RNG.
